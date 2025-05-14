@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8871DDARQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=2.1
+Released=2019-03-09 07:26:26
+Downloaded=2025-05-14 01:51:03
+3D=Y
