@@ -9081,7 +9081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160K"
+		(property "Value" "0402WGJ0163TCE"
 			(at 149.86 62.2299 0)
 			(effects
 				(font
@@ -9230,7 +9230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.4"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
 			(at 234.95 144.78 0)
 			(effects
 				(font
@@ -9575,7 +9575,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "CL05A225MQ5NSNC"
 			(at 161.29 40.6399 0)
 			(effects
 				(font
@@ -12163,7 +12163,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "CL05B104KO5NNNC"
 			(at 222.25 101.5999 0)
 			(effects
 				(font
@@ -13178,7 +13178,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "CL05B104KO5NNNC"
 			(at 226.06 144.7799 0)
 			(effects
 				(font
@@ -13721,7 +13721,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "499K"
+		(property "Value" "0402WGJ0513TCE"
 			(at 149.86 50.7999 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.4"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
 			(at 231.14 101.6 0)
 			(effects
 				(font
@@ -15559,7 +15559,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 31.75 22.86 0)
 			(effects
 				(font
